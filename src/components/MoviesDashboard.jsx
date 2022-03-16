@@ -8,7 +8,7 @@ export const MoviesDashboard = () => {
   useEffect(() => {
     //   dispatch an action to the store 
 
-  }, [dispatch]);
+  }, []);
 
 
 //    filter by genre 
