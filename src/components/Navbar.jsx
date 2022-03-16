@@ -1,3 +1,4 @@
+import "./css/navbar.css"
 const links = [
   {
     title: "Home",
@@ -7,7 +8,10 @@ const links = [
   //   add the other link as well
 ];
 export const Navbar = () => {
-  return {
+  return (
     //map through the link ad display it in header
-  };
+    <>
+    
+    </>
+  );
 };

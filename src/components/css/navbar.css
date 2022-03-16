@@ -1,0 +1,25 @@
+#navbarDiv{
+    border:1px solid grey;
+    border-radius:8px;
+   
+}
+#home{
+    margin-left:10%;
+}
+.navbar{
+    display: inline-block;
+    text-align: center;
+    width:30%;
+}
+.navbarName{
+   
+    padding:5px;
+    width:120px;
+}
+.navbarName:hover{
+    background-color: grey;
+    color: white;
+    border-radius: 8px;
+    border:none;
+    
+}
